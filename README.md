@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Hanno
+
+I have many interests, but my main professional focus these days is writing **microcontroller firmware**, specifically in the field of **motion control**.
+
+I'm working on the [Flott Motion Control Toolkit](https://github.com/flott-motion).
 
 <!--
 **hannobraun/hannobraun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
