@@ -1,6 +1,6 @@
 ### Hey, I'm Hanno!
 
-I'm a self-employed software developer from the [Odenwald](https://madeby.hannobraun.de/made-in-odenwald/2.jpg) region in Germany. My focus is writing **microcontroller firmware** in Rust. You can [hire me](https://braun-embedded.com/), if you need someone to help you with that.
+I'm a self-employed software developer from the [Odenwald](https://hanno.braun-odw.eu/made-in-odenwald/2.jpg) region in Germany. My focus is writing **microcontroller firmware** in Rust. You can [hire me](https://braun-embedded.com/), if you need someone to help you with that.
 
 <!--
 **hannobraun/hannobraun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
